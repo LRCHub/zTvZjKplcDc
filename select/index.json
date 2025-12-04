@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "病み垢ステロイド",
+  "base_artist": "かいりきベア",
+  "createdAt": "2025-12-04T12:49:09.388044Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "病み垢ステロイド",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_病み垢ステロイド_かいりきベア.txt"
+    }
+  ]
+}
